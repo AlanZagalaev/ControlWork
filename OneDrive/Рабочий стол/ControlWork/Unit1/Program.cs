@@ -12,3 +12,7 @@
             Console.WriteLine(item);
         }
         Console.ReadKey();
+    }
+
+static string[] FilterArray(string[] array)
+    {   
