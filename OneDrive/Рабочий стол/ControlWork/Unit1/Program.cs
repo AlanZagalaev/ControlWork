@@ -34,3 +34,6 @@ static string[] FilterArray(string[] array)
                 index++;
             }
         }
+        return filteredArray;
+    }
+}
