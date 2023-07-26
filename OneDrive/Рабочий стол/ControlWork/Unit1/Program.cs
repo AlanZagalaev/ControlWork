@@ -6,3 +6,4 @@
         string input = Console.ReadLine();
         string[] inputArray = input.Split(' '); 
         string[] resultArray = FilterArray(inputArray);
+        Console.WriteLine("Результат:");
