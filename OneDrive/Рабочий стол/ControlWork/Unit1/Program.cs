@@ -16,3 +16,4 @@
 
 static string[] FilterArray(string[] array)
     {   
+        int newLength = 0;
