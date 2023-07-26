@@ -24,3 +24,4 @@ static string[] FilterArray(string[] array)
                 newLength++;
             }
         }
+        string[] filteredArray = new string[newLength];
